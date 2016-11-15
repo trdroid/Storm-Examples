@@ -2,6 +2,8 @@
 
 The nodes in a Storm Topology send data between one another in the form of *tuples*.
 
+![](_misc/Tuples%20in%20Topology.png)
+
 A *tuple* in Storm has the following properties
 
 * It is an ordered list of values
