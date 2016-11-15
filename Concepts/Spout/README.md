@@ -6,7 +6,7 @@ A *spout* is the source of a *stream* in a *topology*.
 
 ### Data Sources
 
-A *sprout* normally reads data from an external data source by listening to
+A *spout* normally reads data from an external data source by listening to
 
 * Any message queues for incoming messages
 * Any database for changes
